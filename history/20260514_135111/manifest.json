@@ -1,0 +1,11 @@
+{
+  "timestamp": "20260514_135111",
+  "url": "https://github.com/2dust/v2rayN/releases/download/7.22.0/v2rayN-windows-64.zip",
+  "mode": "Torrent - Flat Files",
+  "download_dir": "downloads/20260514_135111_v2rayN-windows-64.zip",
+  "files": [
+    {"path": "v2rayN-windows-64.zip.7z.001", "size": 99614720, "size_human": "95M", "sha256": "127d1643b28cd40ccf6a0dc1e67e58fd6d46341d4038d23f920525cd70d723d7"}
+,
+    {"path": "v2rayN-windows-64.zip.7z.002", "size": 62330579, "size_human": "60M", "sha256": "afb6839b3f1e5d705c106eb876f3466c00488ac0312fd4f6f639caf6ab6375f3"}
+  ]
+}

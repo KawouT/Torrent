@@ -1,0 +1,9 @@
+{
+  "timestamp": "20260514_145213",
+  "url": "https://psiphon.ca/PsiphonAndroid.apk",
+  "mode": "Torrent - Flat Files",
+  "download_dir": "downloads/20260514_145213_PsiphonAndroid.apk",
+  "files": [
+    {"path": "PsiphonAndroid.apk", "size": 22928857, "size_human": "22M", "sha256": "d5e1cf5bc2818028f234c26b127069592d645265627f20bd64b467bb83810a50"}
+  ]
+}

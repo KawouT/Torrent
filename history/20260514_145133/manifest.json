@@ -1,0 +1,9 @@
+{
+  "timestamp": "20260514_145133",
+  "url": "https://psiphon.ca/psiphon3.exe",
+  "mode": "Torrent - Flat Files",
+  "download_dir": "downloads/20260514_145133_psiphon3.exe",
+  "files": [
+    {"path": "psiphon3.exe", "size": 9901328, "size_human": "9.5M", "sha256": "78c29797f12fc3289bd1b1765f711b6922e0552ec28f04ce2d41d5bc83b5040b"}
+  ]
+}

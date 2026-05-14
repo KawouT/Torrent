@@ -1,0 +1,11 @@
+{
+  "timestamp": "20260514_140258",
+  "url": "https://github.com/deltachat/deltachat-desktop/releases/download/v2.49.1/DeltaChat-2.49.1-Setup.x64.exe",
+  "mode": "Torrent - Flat Files",
+  "download_dir": "downloads/20260514_140258_DeltaChat-2.49.1-Setup.x64.exe",
+  "files": [
+    {"path": "DeltaChat-2.49.1-Setup.x64.exe.7z.001", "size": 99614720, "size_human": "95M", "sha256": "a5c152fa995a811e4fe64d4a38778b57cf56ab100f4836d6ae80b401aa9be62a"}
+,
+    {"path": "DeltaChat-2.49.1-Setup.x64.exe.7z.002", "size": 27467573, "size_human": "27M", "sha256": "2ca918a75678e4b665e841046efaa55c7540729e3f0a701a3af0579e4d6bb404"}
+  ]
+}

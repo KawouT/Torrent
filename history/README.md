@@ -4,6 +4,25 @@ All times in **Tehran timezone (IR)**.
 
 ## 📥 Download History
 
+> 💾 276MB | 3 downloads
+
+### 📅 2026-05-14 17:33 (Tehran)
+
+**Mode:** Torrent - Flat Files
+
+**Files:**
+
+
+- 📦 **DeltaChat-2.49.1-Setup.x64.exe.7z** (Split Archive - 121.2MB total)
+  ├─ 📎 [**DeltaChat-2.49.1-Setup.x64.exe.7z.001**](https://github.com/KawouT/DownLord/raw/refs/heads/Dl/downloads/20260514_140258_DeltaChat-2.49.1-Setup.x64.exe/DeltaChat-2.49.1-Setup.x64.exe.7z.001) - 95M
+  └─ 📎 [**DeltaChat-2.49.1-Setup.x64.exe.7z.002**](https://github.com/KawouT/DownLord/raw/refs/heads/Dl/downloads/20260514_140258_DeltaChat-2.49.1-Setup.x64.exe/DeltaChat-2.49.1-Setup.x64.exe.7z.002) - 27M
+  💡 *Download all parts, then: `7z x DeltaChat-2.49.1-Setup.x64.exe.7z.001`*
+
+[📋 Download All Links](https://github.com/KawouT/DownLord/raw/refs/heads/Dl/history/20260514_140258/links.txt)
+
+---
+
+
 > 💾 155MB | 2 downloads
 
 ### 📅 2026-05-14 17:21 (Tehran)
